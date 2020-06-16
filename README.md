@@ -1,6 +1,6 @@
 # Client Side Routing w/ React Router v.5
 
-Topicss:
+Topics:
 
 * React Router
 * Using Link and NavLink to navigate to specific routes
