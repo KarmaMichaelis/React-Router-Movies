@@ -33,9 +33,9 @@ const App = () => {
       
       
       <SavedList list={savedList} />
-      <Route path='/movie' component={MovieList}/>
+      <Route path='movies' component={MovieList}/>
      
-      <Route path='/movie/movie.id' component={Movie}/> 
+      <Route path='movies/:movies.id' component={Movie}/> 
         
         
     </div>
